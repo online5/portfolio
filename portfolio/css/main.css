@@ -1,0 +1,30 @@
+.site-header {
+  background-color: #2ca9b7;
+  color: #ecfdf9;
+  height: 100vh;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.git-link{
+  color: #040e0c ;
+}
+
+.site-header-content {
+  margin: 10px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  align-items: center;
+  box-shadow: #254e46 7px 5px 18px;
+}
+body{
+  margin: 0;
+}
